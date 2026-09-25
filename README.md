@@ -63,6 +63,7 @@ Infrastructure is managed using Terraform, and deployment validation is automate
                        ▼
                     AWS
                     ## Technologies Used
+```
 
 - AWS Lambda
 - Amazon API Gateway
