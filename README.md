@@ -62,9 +62,8 @@ Infrastructure is managed using Terraform, and deployment validation is automate
                        │
                        ▼
                     AWS
-                    ## Technologies Used
 ```
-
+## Technologies Used
 - AWS Lambda
 - Amazon API Gateway
 - Amazon DynamoDB
