@@ -315,5 +315,3 @@ The API supports GET and POST operations through API Gateway, with Lambda proces
 ## Author
 
 **Akash K**
-
-DevOps / AWS Portfolio Project
